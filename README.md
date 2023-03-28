@@ -3,7 +3,7 @@
 ## Business Problem
 Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
-## Column Description1. 
+## Column Description
 1. show_id : Unique ID for every Movie / TV Show
 2. type : Identifier - A Movie or TV Show
 3. title : Title of the Movie / Tv Show
